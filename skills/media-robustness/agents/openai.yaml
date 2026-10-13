@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Robustness"
+  short_description: "Профили обработки видео и изображений для тестов"
+  default_prompt: "Используй $media-robustness для обработки видео и изображений выбранным профилем."
